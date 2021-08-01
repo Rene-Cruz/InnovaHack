@@ -2,7 +2,9 @@
 [Descripción Proyecto](https://rene-cruz.github.io/InnovaHack/) | [Diagrama de Azure](https://rene-cruz.github.io/InnovaHack/diagrama.html) | [SLA Compuesto] | [Costos y Disponibilidad](https://rene-cruz.github.io/InnovaHack/costos.html) | [Opiniones del Evento] () | [Tiktok](https://vm.tiktok.com/ZMdcK9Hhg/)
 
 ### <Titulo del Proyecto>
-Rastreo de GPS paralas camionetas policiales (Similar a aplicación DiDi), con zonas de rastreo con mayor demanda delicitva. 
+Rastreo de GPS paralas camionetas policiales (Similar a aplicación DiDi), con zonas de rastreo con mayor demanda delicitva.
+ 
+[Modelo demo del proyecto](http://ia-police.azurewebsites.net/) 
 
 ### Problemática
  Muchas veces somos víctimas de un acto en el cual es necesario que intervengan los cuerpos policiales, la situación aquí es que no lo hacen de manera inmediata ya que se encuentran atendiendo una situación diferente o simplemente la patrulla más cercana no llegó y se tuvo que esperar a la que llegará primero; misma que muchas veces nos lleva desde perder nuestras pertenencias por un robo o la muerte por una pelea que se salió de control .
