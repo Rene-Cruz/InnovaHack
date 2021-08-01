@@ -76,8 +76,8 @@ Cálculo del SLA y disponibilidad en un año
 ![sla image](https://github.com/Rene-Cruz/InnovaHack/blob/main/img/sla.jpg)
 
 
-#### Tik Tok
-(https://vm.tiktok.com/ZMdcK9Hhg/)
+### Tik Tok
+# (https://vm.tiktok.com/ZMdcK9Hhg/)
 
 # Opiniones del Hackaton
 
