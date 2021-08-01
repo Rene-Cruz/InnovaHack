@@ -1,6 +1,6 @@
 ## SummerHack
 
-Inicio | Costos | Servicios | Materiales |
+[Inicio]() | [Costos] | [Servicios] | [Materiales] |
 
 ### <Titulo del Proyecto>
 Sistema de Monitoreo de Patrullas por medio de GPS, sistema de predicciones de crímenes
