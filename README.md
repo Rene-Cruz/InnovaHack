@@ -3,8 +3,7 @@ Repositorio del proyecto para el Hackaton
 
 Propuesta de solución
 
-### <Titulo del Proyecto>
-Rastreo de GPS paralas camionetas policiales (Similar a aplicación DiDi), con zonas de rastreo con mayor demanda delicitva. 
+# Rastreo de GPS paralas camionetas policiales (Similar a aplicación DiDi), con zonas de rastreo con mayor demanda delicitva. 
 
 ![image](https://user-images.githubusercontent.com/86864682/127743010-4abfb2cb-2f4f-4d2e-9af0-b55c41a2e1b0.png)
 
