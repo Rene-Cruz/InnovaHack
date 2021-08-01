@@ -16,10 +16,16 @@
 
 #### Costos TCO 3 años
 Costos lineales
+
+
 ![TCO image](https://github.com/Rene-Cruz/InnovaHack/blob/main/diagramaTCO.jpg)
 
 Grafica pastel de servicios
+
+
 ![TCO graphic](https://github.com/Rene-Cruz/InnovaHack/blob/main/graficaPastel.jpg)
+
+En un total, se está ahorrando la cantidad $23775008.88
 
 #### Precio Total por mes
 | Description | Estimated monthly cost |
