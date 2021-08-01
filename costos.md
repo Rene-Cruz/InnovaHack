@@ -4,6 +4,13 @@
 
 ### Costos sin la nube
 
+| Gastos totales por inseguridad | Dinero | PIB |
+| ------------------------------ | ------ | --- |
+| Gasto por años  | $282.1 mil millones de pesos | 1.53%|
+| Gastos por persona | $6,931.00 | 22,3 MILLONES VICTIMAS EN TODO EL AÑO |
+| POR CADA 100 MIL HABITANTES | TASA INCIDENCIAS 100 MIL H | - |
+| TASA DE 24,849 VÍCTIMAS | 33,65 CASOS | - |
+
 
 ### Costos con la nube
 
