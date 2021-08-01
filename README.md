@@ -1,6 +1,9 @@
 # InnovaHack
 Repositorio del proyecto para el Hackaton
 
+# Para una mejor experiencia revisar gh-pages
+https://rene-cruz.github.io/InnovaHack/
+
 Propuesta de solución
 
 # Rastreo de GPS paralas camionetas policiales (Similar a aplicación DiDi), con zonas de rastreo con mayor demanda delicitva. 
