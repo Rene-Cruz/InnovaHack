@@ -1,5 +1,10 @@
 # INNOVAHACKERS
-Repositorio del proyecto para el Hackaton
+Integrantes
+* José Armando Díaz
+* Julio Abraham Alonso
+* René Francisco Cruz González
+* Ulises Cortes
+* Valeria Ximena Vargas
 
 ### Para una mejor experiencia revisar gh-pages
 https://rene-cruz.github.io/InnovaHack/
