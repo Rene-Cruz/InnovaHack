@@ -1,5 +1,5 @@
 
-[Descripción Proyecto](https://rene-cruz.github.io/InnovaHack/) | [Diagrama de Azure](https://rene-cruz.github.io/InnovaHack/servicios.html) | [SLA Compuesto](https://rene-cruz.github.io/InnovaHack/costos.html) | [Costos y Disponibilidad] | [Opiniones del Evento] () | [Tiktok] 
+[Descripción Proyecto](https://rene-cruz.github.io/InnovaHack/) | [Diagrama de Azure](https://rene-cruz.github.io/InnovaHack/diagrama.html) | [SLA Compuesto] | [Costos y Disponibilidad](https://rene-cruz.github.io/InnovaHack/costos.html) | [Opiniones del Evento] () | [Tiktok](https://vm.tiktok.com/ZMdcK9Hhg/)
 
 ### <Titulo del Proyecto>
 Rastreo de GPS paralas camionetas policiales (Similar a aplicación DiDi), con zonas de rastreo con mayor demanda delicitva. 
