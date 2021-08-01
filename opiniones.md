@@ -9,6 +9,8 @@ Con el apoyo de los Sherpa aclaramos ideas y pudimos trabajar de la mejor manera
 
 ## Julio Abraham Alonso
 
+A lo largo de este recorrido correspondiente al Hack hemos aprendido de todo, desde la integración de un equipo multidisciplinario hasta ser capaces de diseñar y crear una solución a un problema que aqueja da la sociedad actual. Realmente ha sido una muy grata experiencia el poder convivir con otras personas y explotar mis habilidades recientemente adquiridas en el curso. A pesar de que no me especializo en el tema de la nube o la informática.
+
 ## René Francisco Cruz González
 Me gustó bastante el evento, creo que fue algo difícil y eso ayudó a reforzar los temas que se habían estudiado anteriormente. De igual manera las dinámicas fueron excelentes, así como la buena vibra que los sherpas nos daban. Cabe decir que fue un proceso muy educativo y divertido a la vez.
 
