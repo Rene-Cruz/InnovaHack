@@ -13,6 +13,7 @@ Propuesta de solución
 
 Actualmente no se tiene un conocimiento total de la ubicación de una patrulla las 24 horas, la mayoria de estos vehiculos utilizan su comunicación por radio para reportar su zona; tampoco no se tiene un análisis completo de cuáles son las zonas en las que se debería incrementar la vigilancia por cierto número de avisos por parte de las personas que llaman al 911. Para finalizar no se conoce el estado de una patrulla al momento de hacer un reporte ciudadano, y no se sabe si ignora el llamado o no.
 
+[Modelo demo del proyecto](http://ia-police.azurewebsites.net/) 
 
 ### Función de la Aplicación
   
