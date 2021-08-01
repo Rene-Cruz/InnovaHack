@@ -1,6 +1,6 @@
 ## SummerHack
 
-[Inicio](index.md) | [Costos](costos.md) | [Servicios] | [Materiales] |
+[Inicio](https://rene-cruz.github.io/InnovaHack/) | [Costos](https://rene-cruz.github.io/InnovaHack/costos.html) | [Servicios](https://rene-cruz.github.io/InnovaHack/servicios.html) | [Materiales] |
 
 ### <Titulo del Proyecto>
 Sistema de Monitoreo de Patrullas por medio de GPS, sistema de predicciones de crímenes
