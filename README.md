@@ -1,4 +1,4 @@
-# InnovaHack
+# INNOVAHACKERS
 Repositorio del proyecto para el Hackaton
 
 # Para una mejor experiencia revisar gh-pages
