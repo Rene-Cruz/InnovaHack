@@ -1,7 +1,7 @@
 # INNOVAHACKERS
 Repositorio del proyecto para el Hackaton
 
-# Para una mejor experiencia revisar gh-pages
+### Para una mejor experiencia revisar gh-pages
 https://rene-cruz.github.io/InnovaHack/
 
 Propuesta de solución
