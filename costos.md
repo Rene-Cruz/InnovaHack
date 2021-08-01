@@ -18,12 +18,12 @@
 Costos lineales
 
 
-![TCO image](https://github.com/Rene-Cruz/InnovaHack/blob/main/diagramaTCO.jpg)
+![TCO image](https://github.com/Rene-Cruz/InnovaHack/blob/main/img/diagramaTCO.jpg)
 
 Grafica pastel de servicios
 
 
-![TCO graphic](https://github.com/Rene-Cruz/InnovaHack/blob/main/graficaPastel.jpg)
+![TCO graphic](https://github.com/Rene-Cruz/InnovaHack/blob/main/img/graficaPastel.jpg)
 
 En un total, se está ahorrando la cantidad $23775008.88
 
