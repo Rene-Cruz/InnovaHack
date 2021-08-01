@@ -15,6 +15,11 @@
 ### Costos con la nube
 
 #### Costos TCO 3 años
+Costos lineales
+![TCO image](https://github.com/Rene-Cruz/InnovaHack/blob/main/diagramaTCO.jpg)
+
+Grafica pastel de servicios
+![TCO graphic](https://github.com/Rene-Cruz/InnovaHack/blob/main/graficaPastel.jpg)
 
 #### Precio Total por mes
 | Description | Estimated monthly cost |
