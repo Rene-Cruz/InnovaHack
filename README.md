@@ -25,3 +25,5 @@ Una operadora atenderá el llamado, posteriormente mandará un reporte que se re
 En el caso de atender el llamado, confirmar la denuncia. Si la denuncia es confirmada, mandar esos datos para que sean procesados. Una vez los datos hayan sido procesados, se elegirán zonas de posible riesgo para que las patrullas hagan rondas de vigilancia en esas locaciones, la ventaja es que esos datos serán confirmados en tiempo real.
 En caso de atender el llamado y que no sea confirmada la denuncia, se abrirá un reporte, pero los datos no serán procesados.
 
+![Image of Services](https://github.com/Rene-Cruz/InnovaHack/blob/main/diagrama.jpg)
+
