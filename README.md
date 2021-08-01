@@ -40,6 +40,7 @@ En caso de atender el llamado y que no sea confirmada la denuncia, se abrirá un
 ### Costos con la nube
 
 #### Costos TCO 3 años
+![image](https://user-images.githubusercontent.com/86864682/127773360-794c71a3-419c-401f-adbc-d260f70ddee2.png)
 
 #### Precio Total por mes
 | Description | Estimated monthly cost |
