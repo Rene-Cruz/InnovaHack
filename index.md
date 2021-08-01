@@ -7,9 +7,8 @@ Rastreo de GPS paralas camionetas policiales (Similar a aplicación DiDi), con z
 ### Problemática
  Muchas veces somos víctimas de un acto en el cual es necesario que intervengan los cuerpos policiales, la situación aquí es que no lo hacen de manera inmediata ya que se encuentran atendiendo una situación diferente o simplemente la patrulla más cercana no llegó y se tuvo que esperar a la que llegará primero; misma que muchas veces nos lleva desde perder nuestras pertenencias por un robo o la muerte por una pelea que se salió de control .
 
-Actualmente no se tiene un conocimiento total de la ubicación de una patrulla las 24 horas, supuestamente se tiene por medio de reportes solicitados por los superiores que engloba el estado de su situación actual, y la comunicación para saber el estado de una patrulla es por medio de radio, lo cual hace poco efectivo el saber la ubicación exacta y lo que hacen en su servicio cuando no atienden a un reporte.
-Además de que la ubicación no es compartida las 24 horas, tampoco no se tiene un análisis completo de cuáles son las zonas en las que se debería incrementar la vigilancia por cierto número de avisos por parte de las personas que llaman al 911.
-Por otro lado, tampoco se conoce el estado de una patrulla al momento de hacer un reporte ciudadano, y no se sabe si ignora el llamado o no.
+Actualmente no se tiene un conocimiento total de la ubicación de una patrulla las 24 horas, la mayoria de estos vehiculos utilizan su comunicación por radio para reportar su zona; tampoco no se tiene un análisis completo de cuáles son las zonas en las que se debería incrementar la vigilancia por cierto número de avisos por parte de las personas que llaman al 911. Para finalizar no se conoce el estado de una patrulla al momento de hacer un reporte ciudadano, y no se sabe si ignora el llamado o no.
+
 
 ### Función de la Aplicación
   
